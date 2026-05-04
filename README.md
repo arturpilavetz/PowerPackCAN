@@ -24,7 +24,7 @@ To activate the battery pack, you have to use an MCP2515 module and Arduino(test
 <h3 align="left">The pinout of a PowerPack battery pinout is shown below: 
 </h3>
 
-![IMG_1121_uncut](https://user-images.githubusercontent.com/86111307/215270473-e1c82041-47d5-4c51-9748-297b5daa8f38.png)
+![IMG_1121_uncut](https://github.com/user-attachments/assets/e9037d2d-9c96-42fa-83b0-ddc0cedd8629)
 
 <p align="left">
 <b>Recommended to use a current limiter with PowerPack not to consume a significant amperage!</b>
